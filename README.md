@@ -6,3 +6,6 @@
 
 
 [![Download](https://img.shields.io/badge/Download-OrangeFox%20Sapphire-orange?style=for-the-badge&logo=github)](https://github.com/pbzin/orangefox_sapphire/releases)
+
+
+[![Donate](https://img.shields.io/badge/Donate-Support%20Me-red?style=for-the-badge&logo=github)](https://github.com/pbzin/Donate)
